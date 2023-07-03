@@ -1,0 +1,19 @@
+.navbar {
+  height: 50px;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  padding: 0 15px;
+  background: rgb(142, 189, 189);
+}
+.navbarMenu {
+  margin-left: auto;
+  padding: 5px;
+}
+.navbarLink {
+  padding: 5px;
+  color: black;
+}
+.btn {
+  color: white !important;
+}
