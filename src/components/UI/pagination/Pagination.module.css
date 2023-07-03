@@ -1,0 +1,19 @@
+.pageWrapper {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+.page {
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  margin: 0 5px;
+  padding: 9px;
+  border: 1px solid teal;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.pageCurrent {
+  border: 2px solid orange;
+  font-weight: bold;
+}
